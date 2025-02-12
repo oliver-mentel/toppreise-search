@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Toppreise Search",
+  "name": "Toppreise.ch Search",
   "version": "1.0",
   "permissions": ["contextMenus"],
   "background": {
